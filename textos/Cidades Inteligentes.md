@@ -34,3 +34,13 @@ Em conclusão, a implementação da Internet das Coisas (IoT) em cidades intelig
 No entanto, é crucial abordar desafios relacionados a privacidade, segurança e igualdade para garantir que essas tecnologias avancem de forma inclusiva e segura.
 
 Ao enfrentar essas questões de maneira proativa, é possível aproveitar o potencial transformador da IoT enquanto se minimizam os riscos e se promovem cidades mais equitativas e eficientes para todos os cidadãos.
+
+## Referências
+
+SANTIAGO, M. R.; PAYÃO, J. V. Internet das coisas e cidades inteligentes: tecnologia, inovação e o paradigma do desenvolvimento sustentável. **Revista de Direito da Cidade**, v. 10, n. 2, p. 787-805, mai. 2018. Disponível em: https://www.e-publicacoes.uerj.br/rdc/article/view/31207. Acesso em: 18 set. 2024.
+
+TOMÁS, G. H. R. P. **Uma arquitetura para cidades inteligentes baseada na internet das coisas**. Universidade Federal de Pernambuco. Dissertação de mestrado. Fev. 2014. Disponível em: https://repositorio.ufpe.br/handle/123456789/11501. Acesso em: 19 set. 2024.
+
+BELMIRO, J. N.; CRISOMAR, L. S.; SERRALVO, F. A. Revisão sistemática de cidades inteligentes e internet das coisas como tópico de pesquisa. **FGV EBAPE Cadernos**, v. 17, n. 4, p. 1115-1130, out./dez. 2019. Disponível em: https://www.scielo.br/j/cebape/a/mBqjGxPSbRKPsXcS99z8LrD/?format=html&stop=next&lang=pt. Acesso em: 19 set. 2024.
+
+FERREIRA, D. L. S.; NOVAES, M. N.; MACEDO, F. G. L. Cidades inteligentes e inovação: a videovigilância na Segurança Pública de Recife. **Caderno Metrópole**, v. 25, n. 58, p. 1095-1122, set./dez. 2023. Disponível em: https://www.scielo.br/j/cm/a/BgjpbJwnDqq3wNzVFPsJ8Zz/?format=pdf&lang=pt. Acesso em: 20 set. 2024.
